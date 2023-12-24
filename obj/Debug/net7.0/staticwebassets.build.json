@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lGdXk5Ciz3MajF3TdrLpR1Mt7ze8eO90bLbcPGCyQwU=",
+  "Source": "api-vendas",
+  "BasePath": "_content/api-vendas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

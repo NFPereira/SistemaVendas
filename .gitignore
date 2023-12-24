@@ -1,0 +1,6 @@
+
+# Visual Studio 2022 chache/options directory
+.vs/
+*.lock
+
+*.vsidx
